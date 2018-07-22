@@ -1,0 +1,8 @@
+D:\Study projects\TestWindowsService\TestWindowsService\bin\Release\TestWindowsService.exe.config
+D:\Study projects\TestWindowsService\TestWindowsService\bin\Release\TestWindowsService.exe
+D:\Study projects\TestWindowsService\TestWindowsService\bin\Release\TestWindowsService.pdb
+D:\Study projects\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.ProjectInstaller.resources
+D:\Study projects\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.csproj.GenerateResource.cache
+D:\Study projects\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.csproj.CoreCompileInputs.cache
+D:\Study projects\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.exe
+D:\Study projects\TestWindowsService\TestWindowsService\obj\Release\TestWindowsService.pdb
